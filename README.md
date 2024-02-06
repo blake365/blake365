@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Blake
 - 🌋 I’m interested in web development and geology
-- 🌱 I’m currently working on NeoPromisance, a port of the classic browser based mmo, Promisance, from its ancient PHP origins to fullstack javascript ...
+- 🌱 I’m currently working on NeoPromisance, a port of the classic browser based mmo, QMT Promisance, from a 2014 PHP codebase to fullstack javascript ...
 - 🕹️ NeoPromisance is live at https://www.neopromisance.com
 
 <!---
